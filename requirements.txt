@@ -1,1 +1,1 @@
-sampleproject==2.0.0
+blinker==1.4
